@@ -15,7 +15,7 @@ In this project, I:
 To run this notebook:
 1. Open the notebook in Google Colab
 2. Run all cells in order
-3. When prompted, upload your own image or use my example golden retriever image
+3. Download the golden retriever image from my github and use it in your notebook
 
 ## Requirements
 The notebook uses these main libraries:
